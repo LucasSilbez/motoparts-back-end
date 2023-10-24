@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nomepeca: MyString
+  motocompativel: MyString
+  ano: MyString
+  compatibilidade: MyString
+  img_motocompativel: MyString
+
+two:
+  nomepeca: MyString
+  motocompativel: MyString
+  ano: MyString
+  compatibilidade: MyString
+  img_motocompativel: MyString
